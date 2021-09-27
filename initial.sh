@@ -8,6 +8,6 @@ sudo apt install ./google-chrome-stable_current_amd64.deb
 sudo apt install vlc
 sudo apt install gnome-tweaks # After that make caps additional esc key
 sudo apt install steam
-sudo apt-get install gnome-shell-pomodoro
+sudo apt install gnome-shell-pomodoro
 sudo apt install shotwell
-
+sudo apt install jupyter-notebook
