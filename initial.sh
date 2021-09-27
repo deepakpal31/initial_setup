@@ -11,4 +11,4 @@ sudo apt install steam
 sudo apt install gnome-shell-pomodoro
 sudo apt install shotwell
 sudo apt install jupyter-notebook
-#To get use jupyter on other machine "jupyter-notebook --ip 192.168.31.37 --no-browser"
+#To get use jupyter on other machine "jupyter-notebook --ip 192.168.**.** --no-browser"
